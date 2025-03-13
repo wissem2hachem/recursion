@@ -1,6 +1,8 @@
-Recursive Algorithms and Optimization
+<h1>Recursive Algorithms and Optimization</h1>
+
+
 This project explores various recursive algorithms and optimization techniques. It includes a set of exercises designed to implement and analyze different types of recursion in Python, such as direct recursion, head recursion, tail recursion, nested recursion, tree recursion, and indirect recursion. The exercises also cover optimizations such as memoization and iterative approaches for better performance.
-Table of Contents
+<h1>Table of Contents</h1>
 Introduction
 Exercises
 Exercise 1: The Recursive Cashier (Direct Recursion)
@@ -11,13 +13,13 @@ Exercise 5: File System Depth (Tree Recursion)
 Exercise 6: Two-Way Communication (Indirect Recursion)
 Bonus Challenge: The Towers of Hanoi (Optimization & Complexity)
 Complexity Analysis
-Introduction
+<h1>Introduction</h1>
 This repository presents a set of recursive algorithms aimed at demonstrating different recursion types and optimizing their performance. Each exercise focuses on implementing a recursive solution for a problem, followed by analysis of the time and space complexities. In some cases, optimizations like memoization or switching to iterative solutions are explored to enhance efficiency.
 The main goals of this project are to:
 Understand and implement various types of recursion.
 Analyze the time complexity of recursive functions.
 Design optimal recursive solutions using memoization, iteration, or other strategies.
-Exercises
+<h1>Exercises</h1>
 1. Exercise: The Recursive Cashier (Direct Recursion)
 A cashier needs to give change using the fewest number of coins. The minCoins function calculates the minimum number of coins needed for a given amount using direct recursion. An optimization is implemented using memoization to avoid recalculating previously solved subproblems.
 2. Exercise: Virus Spread (Head Recursion)
